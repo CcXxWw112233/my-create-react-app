@@ -1,0 +1,6 @@
+[submodule "src/utils/lib1"]
+	path = src/utils/lib1
+	url = https://github.com/CcXxWw112233/git_sub_module_lib_1.git
+[submodule "src/utils/lib2"]
+	path = src/utils/lib2
+	url = https://github.com/CcXxWw112233/git_sub_module_lib_2.git
