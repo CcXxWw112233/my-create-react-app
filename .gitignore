@@ -24,3 +24,4 @@ yarn-error.log*
 
 #submodules
 /src/utils/lib_1
+/src/utils/lib_2
